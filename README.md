@@ -23,3 +23,5 @@ Markdown format:
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference Year*
 ```
+
+## Table of Contents

@@ -32,3 +32,10 @@ Markdown format:
 * VL-BERT: Pre-training of Generic Visual-Linguistic Representations.[[pdf]](https://arxiv.org/abs/1908.08530).[[code]](https://github.com/jackroos/VL-BERT). *2020 ICLR.*
 * ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.[[pdf]](https://arxiv.org/abs/1908.02265).[[code]](https://github.com/facebookresearch/vilbert-multi-task). *2019*
 * LXMERT: Learning Cross-Modality Encoder Representations from Transformers.[[pdf]](https://arxiv.org/abs/1908.07490).[[code]](https://github.com/airsplay/lxmert). *2019*
+
+#### 2020
+
+- 【Arxiv】Facial Expression Phoenix (FePh): An Annotated Sequenced Dataset for Facial and Emotion-Specified Expressions in Sign Language. [[paper]](http://arxiv.org/pdf/2003.08759v2.pdf)    
+  *Marie Alaghband, Niloofar Yousefi, Ivan Garibay*
+- 【Arxiv】Quantitative Survey of the State of the Art in Sign Language Recognition. [[paper]](http://arxiv.org/pdf/2008.09918v2.pdf)
+  *Oscar Koller*

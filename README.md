@@ -6,6 +6,7 @@ I just want to have a collection of works (including papers and codes) about the
 BERT has been a very popular model architecture in AI community. 
 * Strong long sequence modeling capabilities
 * Self attention mechanism
+
 Cross-modal learning mechanism is more similar to the learning method of the human brain.
 
 ## Contributing

@@ -25,3 +25,4 @@ Markdown format:
 ```
 
 ## Table of Contents
+![avatar](https://github.com/luomingshuang/Cross-Modal-Pretraining-in-BERT/blob/main/cross-modal-bert.png)

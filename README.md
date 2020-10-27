@@ -35,7 +35,10 @@ Markdown format:
 
 #### 2020
 
-- 【Arxiv】Facial Expression Phoenix (FePh): An Annotated Sequenced Dataset for Facial and Emotion-Specified Expressions in Sign Language. [[paper]](http://arxiv.org/pdf/2003.08759v2.pdf)    
-  *Marie Alaghband, Niloofar Yousefi, Ivan Garibay*
-- 【Arxiv】Quantitative Survey of the State of the Art in Sign Language Recognition. [[paper]](http://arxiv.org/pdf/2008.09918v2.pdf)
-  *Oscar Koller*
+- 【ICLR】VL-BERT: Pre-training of Generic Visual-Linguistic Representations.[[pdf]](https://arxiv.org/abs/1908.08530).[[code]](https://github.com/jackroos/VL-BERT).   
+  *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai*
+
+#### 2019
+
+- 【ICCV】VideoBERT: A Joint Model for Video and Language Representation Learning.[[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf). 
+  *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, Cordelia Schmid*

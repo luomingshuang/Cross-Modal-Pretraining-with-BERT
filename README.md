@@ -25,14 +25,6 @@ Markdown format:
 ```
 
 ## Table of Contents
-* VideoBERT: A Joint Model for Video and Language Representation Learning.[[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf). *2019 ICCV.*  
-* Fusion of Detected Objects in Text for Visual Question Answering.[[pdf]](https://arxiv.org/abs/1908.05054). *2019*
-* VisualBERT: A Simple and Performant Baseline for Vision and Language.[[pdf]](https://arxiv.org/abs/1908.03557).[[code]](https://github.com/uclanlp/visualbert). *2019*
-* Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training.[[pdf]](https://arxiv.org/abs/1908.06066). *2019*
-* VL-BERT: Pre-training of Generic Visual-Linguistic Representations.[[pdf]](https://arxiv.org/abs/1908.08530).[[code]](https://github.com/jackroos/VL-BERT). *2020 ICLR.*
-* ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.[[pdf]](https://arxiv.org/abs/1908.02265).[[code]](https://github.com/facebookresearch/vilbert-multi-task). *2019*
-* LXMERT: Learning Cross-Modality Encoder Representations from Transformers.[[pdf]](https://arxiv.org/abs/1908.07490).[[code]](https://github.com/airsplay/lxmert). *2019*
-
 #### 2020
 
 - 【ICLR】VL-BERT: Pre-training of Generic Visual-Linguistic Representations.[[pdf]](https://arxiv.org/abs/1908.08530).[[code]](https://github.com/jackroos/VL-BERT).   

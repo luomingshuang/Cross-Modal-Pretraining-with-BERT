@@ -38,7 +38,7 @@ Markdown format:
   *Chris Alberti, Jeffrey Ling, Michael Collins, David Reitter*
 - 【Arxiv】VisualBERT: A Simple and Performant Baseline for Vision and Language.[[pdf]](https://arxiv.org/abs/1908.03557).[[code]](https://github.com/uclanlp/visualbert).
   *Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh, Kai-Wei Chang*
-- 【Arxiv】Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training.[[pdf]](https://arxiv.org/abs/1908.06066).
+- 【AAAI】Unicoder-VL: A Universal Encoder for Vision and Language by Cross-modal Pre-training.[[pdf]](https://arxiv.org/abs/1908.06066).
   *Gen Li, Nan Duan, Yuejian Fang, Ming Gong, Daxin Jiang, Ming Zhou*
 - 【Arxiv】ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.[[pdf]](https://arxiv.org/abs/1908.02265).[[code]](https://github.com/facebookresearch/vilbert-multi-task).
   *Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee*

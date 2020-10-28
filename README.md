@@ -42,5 +42,5 @@ Markdown format:
   *Gen Li, Nan Duan, Yuejian Fang, Ming Gong, Daxin Jiang, Ming Zhou*
 - 【Arxiv】ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.[[pdf]](https://arxiv.org/abs/1908.02265).[[code]](https://github.com/facebookresearch/vilbert-multi-task).
   *Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee*
-- 【Arxiv】LXMERT: Learning Cross-Modality Encoder Representations from Transformers.[[pdf]](https://arxiv.org/abs/1908.07490).[[code]](https://github.com/airsplay/lxmert).
+- 【EMNLP】LXMERT: Learning Cross-Modality Encoder Representations from Transformers.[[pdf]](https://arxiv.org/abs/1908.07490).[[code]](https://github.com/airsplay/lxmert).
   *Hao Tan, Mohit Bansal* 

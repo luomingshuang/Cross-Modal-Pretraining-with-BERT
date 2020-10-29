@@ -29,6 +29,8 @@ Markdown format:
 
 - 【ICLR】VL-BERT: Pre-training of Generic Visual-Linguistic Representations.[[pdf]](https://arxiv.org/abs/1908.08530).[[code]](https://github.com/jackroos/VL-BERT).   
   *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei, Jifeng Dai*
+- 【Arxiv】ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data.[[pdf]](https://arxiv.org/abs/2001.07966).   
+  *Di Qi, Lin Su, Jia Song, Edward Cui, Taroon Bharti, Arun Sacheti*
 
 #### 2019
 

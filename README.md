@@ -46,3 +46,8 @@ Markdown format:
   *Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee*
 - 【EMNLP】LXMERT: Learning Cross-Modality Encoder Representations from Transformers.[[pdf]](https://arxiv.org/abs/1908.07490).[[code]](https://github.com/airsplay/lxmert).
   *Hao Tan, Mohit Bansal* 
+
+#### 2018
+
+- 【ICML】Image Transformer.[[pdf]](https://arxiv.org/abs/1802.05751). 
+  *Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Łukasz Kaiser, Noam Shazeer, Alexander Ku, Dustin Tran*
